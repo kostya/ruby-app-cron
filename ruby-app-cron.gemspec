@@ -19,7 +19,7 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
 
   s.add_dependency 'ruby-app', ">= 0.1.8"
-  s.add_dependency 'foreverb'  
+  s.add_dependency 'foreverb', ">= 0.3.1"
   
   s.add_development_dependency "rspec"
   s.add_development_dependency "rake"
